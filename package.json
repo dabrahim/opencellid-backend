@@ -1,0 +1,25 @@
+{
+  "name": "opencellid-backend",
+  "version": "1.0.0",
+  "description": "This is the Nodejs / MongoDB version of the project [OpenCellId](opencellid.org)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabrahim/opencellid-backend.git"
+  },
+  "keywords": [],
+  "author": "Ibrahima Ndiaye, Yves Charles Thior, Soumaïla Roamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabrahim/opencellid-backend/issues"
+  },
+  "homepage": "https://github.com/dabrahim/opencellid-backend#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.2.0"
+  }
+}
